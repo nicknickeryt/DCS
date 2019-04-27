@@ -1,0 +1,9 @@
+name: DragonCraftSudo
+author: Nick Nicker
+version: 1.0
+commands:
+    chatsudo:
+        description: Napisz wiadomość za gracza.
+permission: cs.adm
+description: Plugin na pisanie wiadomości za gracza dla serwera DragonCraft.
+main: pl.dcrft.sudo.sudo
